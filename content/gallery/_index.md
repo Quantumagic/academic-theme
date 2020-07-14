@@ -22,7 +22,7 @@ height = "500px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_img = "gallery/1.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "gallery/im1.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -38,7 +38,7 @@ height = "500px"
   content = ""
   align = ""
 
-  overlay_img = "gallery/2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "gallery/im2.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -46,7 +46,7 @@ height = "500px"
   content = ""
   align = ""
 
-  overlay_img = "gallery/3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "gallery/im3.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -54,7 +54,7 @@ height = "500px"
   content = ""
   align = ""
 
-  overlay_img = "gallery/4.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "gallery/im4.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++

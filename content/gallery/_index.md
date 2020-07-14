@@ -48,6 +48,14 @@ height = "500px"
 
   overlay_img = "gallery/3.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+
+  overlay_img = "gallery/4.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
 

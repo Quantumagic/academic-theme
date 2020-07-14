@@ -17,7 +17,7 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more pics.
 [[item]]
   title = ""
-  content = "
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

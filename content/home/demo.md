@@ -58,4 +58,4 @@ Here's a random space video from YouTube:
 {{< youtube E8rel2-kLJA >}}
 
 Latest from our Instagram:
-{{< instagram CChzCOzj_Jm/?igshid=o4ebcfepv6dt' >}}
+{{< instagram o4ebcfepv6dt >}}

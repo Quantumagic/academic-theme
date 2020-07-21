@@ -28,10 +28,6 @@ height = "500px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Know More"
-  cta_url = "url of the related post"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
 
 [[item]]
   title = ""

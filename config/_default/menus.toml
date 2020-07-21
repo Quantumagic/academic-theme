@@ -8,6 +8,11 @@
   url = "#about"
   weight = 10
 
+ [[main]]
+  name = "About Us"
+  url = "about"
+  weight = 15
+  
 [[main]]
   name = "Events"
   url = "events/"
@@ -25,7 +30,7 @@
 
 [[main]]
   name = "Contact Us"
-  url = "#contact"
+  url = "contact"
   weight = 60
   
  [[main]]

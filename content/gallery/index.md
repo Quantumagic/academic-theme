@@ -6,10 +6,10 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 ---
 
 
-{{< figure src="~/static/img/im1.jpg" title="Caption of this image" >}}
+{{< figure src="/static/img/im1.jpg" title="Caption of this image" >}}
 
-{{< figure src="~/static/img/im2.jpg" title="Caption of this image" >}}
+{{< figure src="/static/img/im2.jpg" title="Caption of this image" >}}
 
-{{< figure src="~/static/img/im3.jpg" title="Caption of this image" >}}
+{{< figure src="/static/img/im3.jpg" title="Caption of this image" >}}
 
-{{< figure src="~/static/img/im4.jpg" title="Caption of this image" >}}
+{{< figure src="/static/img/im4.jpg" title="Caption of this image" >}}

@@ -6,10 +6,10 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 
 
-{{< figure src="static/img/im1.jpg" title="Caption of this image" >}}
+{{< figure src="../static/img/im1.jpg" title="Caption of this image" >}}
 
-{{< figure src="static/img/im2.jpg" title="Caption of this image" >}}
+{{< figure src="../static/img/im2.jpg" title="Caption of this image" >}}
 
-{{< figure src="static/img/im3.jpg" title="Caption of this image" >}}
+{{< figure src="../static/img/im3.jpg" title="Caption of this image" >}}
 
-{{< figure src="static/img/im4.jpg" title="Caption of this image" >}}
+{{< figure src="../static/img/im4.jpg" title="Caption of this image" >}}

@@ -10,7 +10,7 @@
 
  [[main]]
   name = "About Us"
-  url = "about"
+  url = "about/"
   weight = 15
   
 [[main]]
@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Contact Us"
-  url = "contact"
+  url = "contact/"
   weight = 60
   
  [[main]]
